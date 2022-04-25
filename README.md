@@ -13,3 +13,5 @@ MVP2: Adding User interaction - Having a screen for user to pull up to study (li
 MVP3: Add animation to the webpage. (CSS/HTML/JAVASCRIPT) 
 
 Future Design/Code: Add a dark mode switch/design home page.
+
+By: Laila Choudhry & Alima Zaman
