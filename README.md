@@ -2,9 +2,7 @@
 
 Because of the pandemic, students have been subjected to online instruction and they’re having a difficult time learning the material. This will allow students to have resources that will help them succeed in their studies. 
 
-replit link: https://replit.com/@laysch99/CS-tube#csreview.html
-
-view page link: https://cs-tube.laysch99.repl.co
+website link: https://cs-tube.netlify.app
 
 MVP1: Bootstrap cards (with each subject related to CS/STEM) that link to a separate page that contains topics in the subject and the links to their teaching videos.
 
